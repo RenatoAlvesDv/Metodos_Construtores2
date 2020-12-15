@@ -1,0 +1,13 @@
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.exe
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.deps.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.runtimeconfig.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.runtimeconfig.dev.json
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\bin\Debug\netcoreapp3.1\Metodos_Construtores2.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.csprojAssemblyReference.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.AssemblyInfoInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.AssemblyInfo.cs
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.csproj.CoreCompileInputs.cache
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.dll
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.pdb
+E:\Curso Tecnico Senai  DV\Introdução-Logica-de -Programacão\C#\Introdução - Objetos e Classes\Metodos_Construtores2\obj\Debug\netcoreapp3.1\Metodos_Construtores2.genruntimeconfig.cache
